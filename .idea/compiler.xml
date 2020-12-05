@@ -9,8 +9,8 @@
         <module name="SpringMVC-ProjectManagement" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="SpringMVC-ProjectManagement" target="11" />
+    <bytecodeTargetLevel target="15">
+      <module name="SpringMVC-ProjectManagement" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
